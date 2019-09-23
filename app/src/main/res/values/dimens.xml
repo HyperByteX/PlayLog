@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Image List -->
+    <dimen name="image_list_padding">8dp</dimen>
+    <dimen name="image_list_item_width">70dp</dimen>
+    <dimen name="image_list_item_height">94dp</dimen>
+
+    <!-- Image List Item -->
+    <dimen name="image_list_item_margin">5dp</dimen>
+    <dimen name="image_list_item_corner_radius">5dp</dimen>
+
+    <!-- Image Wheel -->
+    <dimen name="image_wheel_radius">340dp</dimen>
+    <dimen name="image_wheel_drawable_stroke">6dp</dimen>
+    <dimen name="image_wheel_bottom_margin">48dp</dimen>
+
+    <!-- Image Wheel Button -->
+    <dimen name="image_wheel_button_radius">60dp</dimen>
+    <dimen name="image_wheel_button_text_size">20sp</dimen>
+
+</resources>
